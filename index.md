@@ -5,7 +5,7 @@
 - 2023年1月23日（月曜）13:20-18:00 (開場:13時)
 - 西日本総合展示場 [AIM3F 311会議室](https://www.aim-kipro.co.jp/floor-guide/3f/)(リーガロイヤルホテル小倉 北側)
 - 会場定員: スクール形式40名(最大70名)
-- アクセス: JR小倉駅より徒歩5分(https://www.aim-kipro.co.jp/about/access/)
+- アクセス: [JR小倉駅より徒歩5分](https://www.aim-kipro.co.jp/about/access/)
 
 ## テーマ
  耐量子暗号
@@ -34,5 +34,5 @@
 scais.info [atmark] gmail.com
 
 ## SCAIS2023実行委員
-須賀 祐治（IIJ），木藤 圭亮（三菱電機），高橋 順子（NTT），縫田 光司（東京大学）
+須賀 祐治（IIJ），木藤 圭亮（三菱電機），高橋 順子（NTT），縫田 光司（東京大学）<br>
 林 卓也（NEC），矢内 直人（大阪大学），国井 裕樹（セコム）
