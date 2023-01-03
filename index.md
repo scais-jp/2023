@@ -32,8 +32,7 @@
 - 参加費無料
 - 聴講者は**現地のみ**（ですが遠隔聴講の **「ご希望だけ」** はお受けしますので下記URLでお申し込み下さい；ただし無保証です）
 - スピーカー募集中です（以下の登録時もしくはメールでお問い合わせ下さい）
-- 以下のURLよりご登録下さい
-- https://docs.google.com/forms/d/1Jw5KeR3quIo6xx2BRqyfxsrxEBkYAlI-vs1N7y6rrqU/
+- [こちら](https://docs.google.com/forms/d/1Jw5KeR3quIo6xx2BRqyfxsrxEBkYAlI-vs1N7y6rrqU/)よりご登録下さい
 
 ## 懇親会のご案内
 対面による公式な懇親会は開催致しません．ご了承下さい．
